@@ -224,5 +224,3 @@ export async function run() {
     await context.sync();
   });
 }
-
-console.log(getHyphenatedWord("Македонија")); 
